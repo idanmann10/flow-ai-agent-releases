@@ -12,12 +12,12 @@ This repository contains signed and notarized installers for Flow AI Agent.
 ## Installation
 
 ### macOS
-1. Download the  file
+1. Download the .pkg file
 2. Double-click to install
 3. Follow the installation wizard
 
 ### Windows
-1. Download the  file
+1. Download the .msi file
 2. Double-click to run the installer
 3. Follow the installation wizard
 
