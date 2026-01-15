@@ -2,12 +2,12 @@
 
 This repository contains signed and notarized installers for Flow AI Agent.
 
-## Latest Release: v1.1.3
+## Latest Release: v1.1.4
 
 ### Downloads
 
-- **macOS**: [FlowAI-Agent-v1.1.3-macOS.pkg](releases/v1.1.3/FlowAI-Agent-v1.1.3-macOS.pkg)
-- **Windows**: [FlowAI-Agent-v1.1.3-Windows.msi](releases/v1.1.3/FlowAI-Agent-v1.1.3-Windows.msi)
+- **macOS**: [FlowAI-Agent-v1.1.4-macOS.pkg](releases/v1.1.4/FlowAI-Agent-v1.1.4-macOS.pkg)
+- **Windows**: [FlowAI-Agent-v1.1.4-Windows.msi](releases/v1.1.4/FlowAI-Agent-v1.1.4-Windows.msi)
 
 ## Installation
 
